@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>The HotSpot Bat</title>
+<h1>This is a picture of our Bar</h1>
+<p> Kindly Observe that this is only the outside of the bar. Note that to see the inside you will have to wait until other videos are uploaded to the page</p>
+<img src="bar.jpg"/>
+</html>
+<html>
+<em> Kindly Submit Online Form to book Reservations.</em>
+<form action="" method="get">
+First name: <input type="text" name="Firtst_Name"><br>
+Last name: <input type="text" name="Last_Name"><br>
+Email: <input type="email" name="email"><br>
+Telephone Number: <input type="Telephone Number" name="Telephone Number"><br>
+<input type="submit" value="submit">
+</form>
+</html>
+<html>
+<h2> Kindly, watch the video of the inside of our resturant</h2>
+<a href="https://www.youtube.com/watch?v=z1Tnww-J8oI">This is the inside of our bar click the link</a>
+<html</>
+<footer> <follow>Follow Us:</p>
+<a href= "https://www.youtube.com/watch?v=NDEgkXmZW78"> On Youtube</a>
+</p>
+<p>&copy; Copyright 2016, All rights Reserved. </p>
+</footer>
+</html>
+<html>
+<nav>
+<a href="file:///C:/Users/Marlesa/Desktop/HTML%20document/Assignment.html">Home</a>
+<a href="file:///C:/Users/Marlesa/Desktop/HTML%20document/Dog.html">About Us</a>
+</nav>
+</html>
